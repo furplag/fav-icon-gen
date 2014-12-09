@@ -43,4 +43,4 @@ bower_components
 node_modules
 build
 /components
-/src
+src
