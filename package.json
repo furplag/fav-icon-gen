@@ -1,0 +1,18 @@
+{
+  "name": "fav-icon-gen",
+  "version": "0.0.0",
+  "description": "Node task for to generate optimized favicon files for me.",
+  "author": "furplag <furplag@users.noreply.github.com>",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-favicons": "^0.6.4",
+    "grunt-tinypng": "^0.5.3",
+    "load-grunt-tasks": "~1.0.0",
+    "time-grunt": "~1.0.0"
+  },
+  "engines": {
+    "node": "~0.10.1"
+  }
+}
